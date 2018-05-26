@@ -111,11 +111,11 @@ The result looks impossible, the difficulty for a team to reach such achieve is 
 
 *Number inside of the parenthesis represent that country’s Elo Ranking 
 
-##### Limitations and Outlook:
+#### Limitations and Outlook:
 
-1.Is any other representation better than Bar Chart?
-2.Can we find any post-influences for these countries? For example, has Korean achieve more success in the following world cups?
-3.2002 Italy was kicked out, does this incident influence their morale?
++ Is any other representation better than Bar Chart?
++ Can we find any post-influences for these countries? For example, has Korean achieve more success in the following world cups?
++ 2002 Italy was kicked out, does this incident influence their morale?
 
 
 ### Finding 2 - Will World Cup Increase the GDP of Host Countries? Probably not!

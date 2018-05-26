@@ -181,14 +181,14 @@ We is the expected result (win expectancy), either from the chart or the followi
 dr equals the difference in ratings plus 100 points for a team playing at home.
 (https://www.eloratings.net/about)
 
-**Figure 1.1: **
+**Figure 1.1**
 
 ![](https://github.com/bochenw/first-version-graph/blob/master/1.png)
 [Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/WorldCuprankVsWorldrankforHostCountriesfrom1930to2014/Dashboard1)
 
 We calculated the difference between world cup ranking and world ranking and plot our result into the following figure. The ranking differences between world ranking and world cup ranking for the host countries since 1930 has an average of 8.35. Besides of the number, we observed that the result is very unbalanced, some group of countries only changed in a small range, and other countries changed in a relatively broad range.
 
-**Figure 1.2: **
+**Figure 1.2**
 
 ![](https://github.com/bochenw/first-version-graph/blob/master/2.png)
 
@@ -196,7 +196,7 @@ We calculated the difference between world cup ranking and world ranking and plo
 
 Based on the above analysis, we divided hosting courtiers into two groups: the first group includes the countries that were rated the top 10 countries by world ranking, another group includes all the countries outside of that top 10 realms.
 
-**Figure 1.3: **
+**Figure 1.3**
 
 ![](https://github.com/bochenw/first-version-graph/blob/master/3.png)
 [Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/ranking10differences/Dashboard3)
@@ -209,7 +209,7 @@ At this point, we already had a partial conclusion that some countries have a si
 
 The objective of this formula is simple to understand: one country has a world ranking of 50, and it’s rank score increased to 40 in World Cup; another country has a world ranking of 11, and its rank score increased to 1 in World Cup. For those two countries, their score all increased 10, but the difficulty of the increase is different.  By using our formula, we can more precisely check which countries outperform the most. 
 
-**Figure 1.4: **
+**Figure 1.4**
 
 ![](https://github.com/bochenw/first-version-graph/blob/master/4.png)
 [Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/ranking10difficulty/Dashboard4)
@@ -228,11 +228,6 @@ For the group stage, Korea(27)* was in group D, with United States(21), Portugal
 The result looks impossible, the difficulty for a team to reach such achieve is extremely hard. Based on this result, in our future revised version, we will dig deeper, try to obtain the data for Korea soccer statistics before and after 2002, and try to reach a reasonable conclusion. 
 
 *Number inside of the parenthesis represent that country’s Elo Ranking 
-
-##### Source:
-
-National Soccer Ranking data is from: http://www.eloratings.net
-World Cup Ranking Data is from: https://www.kaggle.com/abecklas/fifa-world-cup
 
 ##### Limitations and Outlook of the Finding 3 
 
@@ -255,6 +250,11 @@ https://www.americanprogress.org/wp-content/uploads/kf/WORLDCUPPDF.PDF
 READBEREAD, February 11, 2017
 https://rbrpublishing.com/2017/02/11/economic-and-social-impact-of-the-world-cup-on-south-africa/
 Preuss, Holger. Economics of the Olympic Games: Hosting the Games 1972 – 2000. Sidney: Walla Walla Press, 2000.
+
++ National Soccer Ranking data: http://www.eloratings.net
+
++ World Cup Ranking Data: https://www.kaggle.com/abecklas/fifa-world-cup
+
 
 
 

@@ -21,11 +21,11 @@ So we used data of all host countries from three perspectives sports performance
 
 ## Data Wrangling
 
-[Finding One Jupyter Link](https://github.com/bochenw/first-version-graph/blob/master/Finding%203%20Data%20Wrangling.ipynb)
+[Finding One Jupyter Link](https://github.com/gleamingMushroom/MSIS2629-DataViz/blob/master/Data%20Wrangling%20for%20team%20project%20finding%201.ipynb)
 
 [Finding Two Jupyter Link]
 
-[Finding Three Jupyter Link]
+[Finding Three Jupyter Link](https://github.com/bochenw/first-version-graph/blob/master/Finding%203%20Data%20Wrangling.ipynb)
 
 ## Interesting Findings
 

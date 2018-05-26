@@ -128,7 +128,7 @@ As we cannot analysis many patterns of the number of international tourists, we 
 
 #### <2> International Tourism Expenditures
 
-** Figure 2:  International Tourism Expenditures ** 
+**Figure 2:  International Tourism Expenditures** 
 
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/International%20tourism%20expenditures.jpg)
 
@@ -148,7 +148,27 @@ There is also the on-going perception that Brazil is a dangerous  country. Howev
 
 ### Finding 3
 
+**Figure 1.1: **
 
+![](https://github.com/bochenw/first-version-graph/blob/master/World%20Cup%20rank%20Vs.%20World%20Rank.png)
+[Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/WorldCuprankVsWorldrankforHostCountriesfrom1930to2014/Dashboard1)
+
+**Figure 1.2: **
+
+!()[https://github.com/bochenw/first-version-graph/blob/master/Ranking%20Differences%20.png]
+[Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/rankingdifferencesbetweenworldcuprankandelosoccerrating/Dashboard2)
+
+
+**Figure 1.3: **
+
+![](https://github.com/bochenw/first-version-graph/blob/master/Top%20Ten%20Vs%20not%20differences.png)
+[Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/ranking10differences/Dashboard3)
+
+
+**Figure 1.4: **
+
+![](https://github.com/bochenw/first-version-graph/blob/master/Top%2010%20vs%20not%20Difficulty.png)
+[Tableau public link](https://public.tableau.com/profile/bochen.wang#!/vizhome/ranking10difficulty/Dashboard4)
 
 
 #### Other References:

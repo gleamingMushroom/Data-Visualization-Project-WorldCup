@@ -78,7 +78,16 @@ As we can see from the numbers and trend, it is not getting better year after ye
 
 There is an obviously correlation between gun laws and gun deaths, the graph below shows the ranking of gun laws strength versus gun death state by state (year 2017). Of the states with the strongest gun laws are associated with low gun death rates and low gun law grades with high gun death rates. 
 
-![](https://github.com/gleamingMushroom/AddImage/blob/master/D4.png)
+Orginal Graph |
+------------- |
+![](https://cdn.vox-cdn.com/thumbor/DSnUHcsmYBIRs1Vbme8d-TGpa-k=/0x0:550x425/1320x0/filters:focal(0x0:550x425):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9371423/gun_control_vs_deaths.jpg) |
+
+First Version Graph |
+------------- |
+![](https://github.com/gleamingMushroom/AddImage/blob/master/D4.png) |
+
+Revised Version Graph |
+------------- |
 
 How is the gun laws strength measured? Six policies would be most essencial: Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. For example, California has strongest gun conrtol laws of these six policies among 50 states, and ranked 43 of gun death rate for 50 represents fewest 0 represents most deaths.(This x-aixs has reverse the numbers for easier understanding, the data points move more right indicates high death rate.)
 

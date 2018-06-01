@@ -1,4 +1,4 @@
-# America???s Unique Gun Violence Problem
+# America's Unique Gun Violence Problem
 ### Redesign and Deceptive Data Product
 
 ---
@@ -66,12 +66,20 @@ Revised Version Graph |
 On average, there is around one kill and three injury for each day in the US by mass shooting. Only 4 months passed by the time of this year, there are already **80** incidents happended.
 
 **121** days, mass shooting has cost the US **103** killed and **314** injured.
-
-![](https://github.com/gleamingMushroom/AddImage/blob/master/D2.png)
-
 As we can see from the numbers and trend, it is not getting better year after year!
 
-![](https://github.com/gleamingMushroom/AddImage/blob/master/D3.png)
+
+
+Orginal Graph |
+------------- |
+![](https://cdn.vox-cdn.com/thumbor/6XvgzJPL2J2jEw-WBewA5mOYx3w=/0x0:577x951/1320x0/filters:focal(0x0:577x951):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9371333/mass_shooting_calendar.png) |
+
+First Version Graph 1  | First Version Graph 2
+------------- | -------------
+![](https://github.com/gleamingMushroom/AddImage/blob/master/D2.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/D3.png)
+
+Revised Version Graph |
+------------- |
 
 
 ### Finding 3 - Weak Gun Laws, More Gun Deaths

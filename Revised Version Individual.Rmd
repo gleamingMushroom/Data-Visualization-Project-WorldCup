@@ -12,7 +12,7 @@ This project contains following delieverables:
 
 ```{r}
 1. Project Introduction
-2. Process + Data Wrangling
+2. Data Wrangling
 3. Redesign
   + Finding 1
   + Finding 2
@@ -26,17 +26,17 @@ This project contains following delieverables:
 
 ## Project Introduction
 
-This Project is visualization data product inspired by an article of Vox -- [America's unique gun violence problem, explained in 17 maps and charts](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts). 
+The topic for this project is Gun Violence in the United States. The data products displayed below are inspired by an article of Vox -- [America's unique gun violence problem, explained in 17 maps and charts](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts). 
 
-motivation
+This project contains two parts: An redesign of existing data product and a deceptive data product. The objective is to learn from others, sharpen the critical perspective on data visualizations, reason about design decisions, and attempt to improve data visualizations.
 
 
 ## Data Wrangling
 
-### [Jupyter Notebook Link](https://github.com/gleamingMushroom/MSIS2629-DataViz/blob/master/Deceptive%20Data%20Product%20Data%20Wrangling.ipynb)
-
-Data of finding 1 & 2 are downloaded from CDC Multiple Cause of Death Data: https://wonder.cdc.gov/mcd.html.
+The data uesd in this projects are generated from different public data sources. Data of finding 1 & 2 are downloaded from CDC Multiple Cause of Death Data: https://wonder.cdc.gov/mcd.html.
 The data represented firearm caused death in each state each year, from 1999 to 2016. 
+
+#### [Jupyter Notebook Link](https://github.com/gleamingMushroom/MSIS2629-DataViz/blob/master/Deceptive%20Data%20Product%20Data%20Wrangling.ipynb)
 
 ## Redesign
 
@@ -146,7 +146,7 @@ Orginal Graph | Deceptive Graph
 
 Revised Version Graph |
 ------------- |
-![](https://github.com/gleamingMushroom/AddImage/blob/master/F4%20-%20homicide.png) |
+![](https://github.com/gleamingMushroom/AddImage/blob/master/F4%20-%20homicides.png) |
 
 [Tableau Public Link]()
 

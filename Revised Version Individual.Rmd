@@ -132,10 +132,13 @@ Let's see the following comparisons of the original graph versus the decptive on
 
 ### Finding 4 - Have gun homicides really declined in the US over the past few years?
 
-The original graph stated that gun homicides have declined over the past couple decades, we can see from the original graph that it did appeare a great and sudden drop, especially since 1993, the death rate of homicides decreased and tended to be stable.
+The article stated that gun homicides have declined over the past couple decades, we can see from the original graph that it did appeare a great and sudden drop, especially since 1993, the death rate of homicides decreased and tended to be stable.
 
-But if our data start from 1999, the meaning could be completely different. The deceptive graph took the same dataset, but different time period, and also the axis start point was manipulated, so the trend seems fluctuated remarkably. It can be seen that the death rate of homicides is tumultuous, goes up and down, with a decline around 2007 - 2011, and goes up from 2014 - 2016, eventually exceed the start year number.
+But if our data start from 1999, the meaning could be completely different. 
 
+The first version of deceptive graph took the same dataset, but different time period, and also the axis start point was manipulated, so the trend seems fluctuated remarkably. It can be seen that the death rate of homicides is tumultuous, goes up and down, with a decline around 2007 - 2011, and goes up from 2014 - 2016, eventually exceed the start year number.
+
+But the first version displayed a volatile line, which not creating an obvious contrast with the original graph. So in the revised version, using the same y-axis range and showing the data points in the uniform way with the original graph, we can see that the death rate of homicides started to level off since 1999, a much smaller increase in the end of the line.
 
 Orginal Graph | Deceptive Graph
 ------------- | -------------
@@ -143,7 +146,7 @@ Orginal Graph | Deceptive Graph
 
 Revised Version Graph |
 ------------- |
-![]() |
+![](https://github.com/gleamingMushroom/AddImage/blob/master/F4%20-%20homicide.png) |
 
 [Tableau Public Link]()
 
@@ -165,9 +168,11 @@ Revised Version Graph |
 
 ### Finding 6 - States with more guns have more gun deaths?
 
-The original graph believes *???within the United States, a wide array of empirical evidence indicates that more guns in a community leads to more homicide."*
+The original graph believes *"within the United States, a wide array of empirical evidence indicates that more guns in a community leads to more homicide."*
 
-Using the same data from a study in Injury Prevention and the Centers for Disease Control and Prevention, if we reverse the axis orientation, it could be visually deceptive. To compare with the original one, the deceptive graph shows an opposite trend line. As it change the way people's normal understanding of axis' representation, it could be visually misleading to "More gun ownership, lower death rate". 
+Using the same data from a study in Injury Prevention and the Centers for Disease Control and Prevention, if we reverse the axis orientation, it could be visually deceptive. But also would be a very obvious method.
+
+So in the revised version, instead of using death rate per 100,000 people, altering the way of calculation, using actual number of deaths, we can see the revised graph shows an opposite trend line, it could be interpreted as "there are no correlation between gun ownership and gun deaths". 
 
 Orginal Graph | Deceptive Graph
 ------------- | -------------
@@ -175,7 +180,7 @@ Orginal Graph | Deceptive Graph
 
 Revised Version Graph |
 ------------- |
-![]() |
+![](https://github.com/gleamingMushroom/AddImage/blob/master/F6%20-%20ownership%20and%20deaths.png) |
 
 [Tableau Public Link]()
 Data Source: [Gun ownership and social gun culture](http://europepmc.org/articles/pmc4809774)

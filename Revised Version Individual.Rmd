@@ -49,9 +49,13 @@ The incident is the deadliest mass shooting committed by an individual in the Un
 
 As we can see from the graph, unsurprisingly, mass shootings happended more often at areas with larger population, especially west coast and east area.
 
-Orginal Graph | First Version Graph
-------------- | -------------
-![](https://cdn.vox-cdn.com/thumbor/VCoLaTzc0zKmT_uWYrnusEO5DzQ=/0x0:1077x496/1320x0/filters:focal(0x0:1077x496):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9371323/mass_shootings_map.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/D1.png) |
+Orginal Graph | 
+------------- |
+![](https://cdn.vox-cdn.com/thumbor/VCoLaTzc0zKmT_uWYrnusEO5DzQ=/0x0:1077x496/1320x0/filters:focal(0x0:1077x496):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9371323/mass_shootings_map.png) | 
+
+First Version Graph | 
+------------- |
+![](https://github.com/gleamingMushroom/AddImage/blob/master/D1.png) |
 
 Revised Version Graph |
 ------------- |
@@ -66,9 +70,13 @@ As we can see from the numbers and trend, it is not getting better year after ye
 
 
 
-Orginal Graph | First Version Graph 1  | First Version Graph 2
-------------- | ------------- | -------------
-![](https://cdn.vox-cdn.com/thumbor/6XvgzJPL2J2jEw-WBewA5mOYx3w=/0x0:577x951/1320x0/filters:focal(0x0:577x951):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9371333/mass_shooting_calendar.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/D2.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/D3.png)
+Orginal Graph | 
+------------- |
+![](https://cdn.vox-cdn.com/thumbor/6XvgzJPL2J2jEw-WBewA5mOYx3w=/0x0:577x951/1320x0/filters:focal(0x0:577x951):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9371333/mass_shooting_calendar.png) | 
+
+First Version Graph 1  | First Version Graph 2 |
+------------- | ------------- |
+![](https://github.com/gleamingMushroom/AddImage/blob/master/D2.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/D3.png)
 
 Revised Version Graph |
 ------------- |
@@ -76,22 +84,30 @@ Revised Version Graph |
 
 ### Finding 3 - Weak Gun Laws, More Gun Deaths
 
-There is an obviously correlation between gun laws and gun deaths, the graph below shows the ranking of gun laws strength versus gun death state by state (year 2017). Of the states with the strongest gun laws are associated with low gun death rates and low gun law grades with high gun death rates. 
+There is an obviously correlation between gun laws and gun deaths -- fewer People die from gun violence in states with strong gun laws. But unfortunately, original graph from [Vox](https://www.vox.com/policy-and-politics/2017/10/2/16399418/us-gun-violence-statistics-maps-charts) as cited below does not clearly show this correlation, there are pros and cons of using maps to visualise data, in this case, scatter plot allows the reader to make much more sense of the data than the map did. 
 
-Orginal Graph | First Version Graph
-------------- | -------------
-![](https://cdn.vox-cdn.com/thumbor/DSnUHcsmYBIRs1Vbme8d-TGpa-k=/0x0:550x425/1320x0/filters:focal(0x0:550x425):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9371423/gun_control_vs_deaths.jpg) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/D4.png) 
+The first version graph using the ranking of gun laws strength versus gun death state by state (year 2017). It can be seen that the states with the strongest gun laws are associated with low gun death rates and low gun law grades with high gun death rates. Apart from too much colors, there is another ambiguous part: the x-aixs has reverse the numbers for easier understanding, the data points move more right indicates high death rate. 
+
+So in the revised version, by improving the data to annual state gun death rates per 100,000 people in order of gun law strength and grouped by grade, which is more clear and no need to reverse x-aixs' numbers. Instead of using 10 different colors represents the law strength, narrowing it to 5 different shapes seems more direct and easier to understand. It is now clearly can be seen that around half of states with weak gun laws has high gun death rates.
+
+Orginal Graph | 
+------------- |
+![](https://cdn.vox-cdn.com/thumbor/DSnUHcsmYBIRs1Vbme8d-TGpa-k=/0x0:550x425/1320x0/filters:focal(0x0:550x425):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9371423/gun_control_vs_deaths.jpg) |
+
+First Version Graph |
+------------- |
+![](https://github.com/gleamingMushroom/AddImage/blob/master/D4.png) |
 
 Revised Version Graph |
 ------------- |
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/F3%20-%20gun%20law%20vs%20gun%20death.png) |
 
 
-How is the gun laws strength measured? Six policies would be most essencial: Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. For example, California has strongest gun conrtol laws of these six policies among 50 states, and ranked 43 of gun death rate for 50 represents fewest 0 represents most deaths.(This x-aixs has reverse the numbers for easier understanding, the data points move more right indicates high death rate.)
+How is the gun laws strength measured? Six policies would be most essencial: Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. For example, California has strongest gun conrtol laws of these six policies among 50 states, and ranked 43 of gun death rate for 50 represents fewest 0 represents most deaths.
 
 This year, 12 states increased their gun law scores over previous years. North Dakota, New Jersey, Nevada, Rhode Island, Tennessee, and Utah passed new domestic violence laws, while Oregon enacted an Extreme Risk Protection Order law. California, Connecticut, Illinois, Massachusetts, and New York earned extra points for funding urban gun violence reduction programs, which are remarkably effective, non-legislative approaches to preventing shootings. 
 
-* The data and ranking number are generated by Giffords Law Center, an orgnization dedicate to prevent gun violence. Source:http://lawcenter.giffords.org/scorecard/#CA
+* The data and ranking number are generated by Giffords Law Center, an orgnization dedicate to prevent gun violence. Source:http://lawcenter.giffords.org/scorecard/
 
 
 

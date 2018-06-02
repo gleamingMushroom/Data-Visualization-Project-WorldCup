@@ -62,25 +62,25 @@ Revised Version Graph |
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/F1%20-%20Map.png) |
 
 
-### Finding 2 - People getting hurt everyday
+### Finding 2 - People are getting hurt EVERDAY
 
 On average, there is around one kill and three injury for each day in the US by mass shooting. Only 4 months passed by the time of this year, there are already **80** incidents happended.
 
 **121** days, mass shooting has cost the US **103** killed and **314** injured.
-As we can see from the numbers and trend, it is not getting better year after year!
 
-
+In order to see these trend clearly, first version was trying to recreate a calendar and showing the rising trend by bar chart, but it's actually not intuitive to audience. In the revised version, using the incidents happened in 2018 as timeline graph and data from 2014 to 2017 indicates the trend, it's obvious that this situation are not getting better year after year, and surprisingly, for each year, Q3 always reached the peak of the year.
 
 Orginal Graph | 
 ------------- |
 ![](https://cdn.vox-cdn.com/thumbor/6XvgzJPL2J2jEw-WBewA5mOYx3w=/0x0:577x951/1320x0/filters:focal(0x0:577x951):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/9371333/mass_shooting_calendar.png) | 
 
-First Version Graph 1  | First Version Graph 2 |
+First Version Graph 1 | First Version Graph 2 |
 ------------- | ------------- |
-![](https://github.com/gleamingMushroom/AddImage/blob/master/D2.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/D3.png)
+![](https://github.com/gleamingMushroom/AddImage/blob/master/D2.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/D3.png) |
 
-Revised Version Graph |
-------------- |
+Revised Version Graph 1 | Revised Version Graph 2 |
+------------- | ------------- |
+![](https://github.com/gleamingMushroom/AddImage/blob/master/F2%20-%20MS%202018.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/F2%20-%20MS%20Trend.png) |
 
 
 ### Finding 3 - Weak Gun Laws, More Gun Deaths

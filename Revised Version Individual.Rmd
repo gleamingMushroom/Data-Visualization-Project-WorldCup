@@ -1,5 +1,5 @@
 # America's Unique Gun Violence Problem
-### Redesign and Deceptive Data Product
+### Redesign and Deceptive Data Products
 
 ---
 + title: "Revised Version - Individual Project"
@@ -12,7 +12,7 @@ This project contains following delieverables:
 
 ```{r}
 1. Project Introduction
-2. Data Wrangling
+2. Process and Data Wrangling
 3. Redesign
   + Finding 1
   + Finding 2
@@ -31,11 +31,11 @@ The topic for this project is Gun Violence in the United States. The data produc
 This project contains two parts: An redesign of existing data product and a deceptive data product. The objective is to learn from others, sharpen the critical perspective on data visualizations, reason about design decisions, and attempt to improve data visualizations.
 
 
-## Data Wrangling
+## Data Processing and Wrangling
 
-The data uesd in this projects are generated from different public data sources. Data of finding 1 & 2 are downloaded from CDC Multiple Cause of Death Data: https://wonder.cdc.gov/mcd.html.
-The data represented firearm caused death in each state each year, from 1999 to 2016. 
+The data uesd in this projects are generated from different public data sources. 
 
+Data of deaths caused by firearm by states is downloaded from CDC Multiple Cause of Death Data: https://wonder.cdc.gov/mcd.html. The data represented firearm caused death in each state each year, from 1999 to 2016. 
 #### [Jupyter Notebook Link](https://github.com/gleamingMushroom/MSIS2629-DataViz/blob/master/Deceptive%20Data%20Product%20Data%20Wrangling.ipynb)
 
 ## Redesign
@@ -71,11 +71,11 @@ Revised Version Graph |
 
 ### Finding 2 - People are getting hurt EVERDAY
 
-On average, there is around one kill and three injury for each day in the US by mass shooting. Only 4 months passed by the time of this year, there are already **80** incidents happended.
+On average, there is around one kill and three injury for each day in the US by mass shooting. Only 4 months passed by the time of this year, there are already **80** incidents happended. In 2018, **121** days, mass shooting has cost the US **103** killed and **314** injured.
 
-**121** days, mass shooting has cost the US **103** killed and **314** injured.
+In order to see these trend clearly, first version was trying to recreate a calendar and showing the rising trend by bar chart, but it's actually not intuitive to audience. 
 
-In order to see these trend clearly, first version was trying to recreate a calendar and showing the rising trend by bar chart, but it's actually not intuitive to audience. In the revised version, using the incidents happened in 2018 as timeline graph and data from 2014 to 2017 indicates the trend, it's obvious that this situation are not getting better year after year, and surprisingly, for each year, Q3 always reached the peak of the year.
+In the revised version, using the incidents happened in 2018 as timeline graph and data from 2014 to 2017 indicates the trend, it's obvious that this situation are not getting better, the terrible numbers that grow with each mass shooting year after year, and surprisingly, for each year, Q3 always reached the peak of the year. 
 
 Orginal Graph | 
 ------------- |
@@ -154,7 +154,7 @@ Revised Version Graph |
 
 The original graph shows majority of gun-related deaths in the US are suicides. We can see that line of suicides is much higher than homicides and still on a rising trend.
 
-But if we change the graph to a different pattern, it could be visually tricked. The deceptive graph does not oppose the conclusion of *"greater access to guns dramatically increases the risk of suicide"*, but with the distorted area size and truncated y-axis, the visual effects are different. The deceptive graph intentionally leave an impression of homecide number is higher than suicide.
+But if we change the graph to a different pattern, it could be visually tricked. The deceptive graph does not oppose the conclusion of *"greater access to guns dramatically increases the risk of suicide"*, but with the distorted area size and truncated y-axis, the visual effects are different. In the revised version, by increasing the contrast intentionally leave an impression of homecide number is higher than suicide.
 
 Orginal Graph | Deceptive Graph
 ------------- | -------------
@@ -176,7 +176,7 @@ So in the revised version, instead of using death rate per 100,000 people, alter
 
 Orginal Graph | Deceptive Graph
 ------------- | -------------
-![](https://cdn.vox-cdn.com/thumbor/qT_eY-nv6mUjUlZkghfFutjUcnc=/0x0:784x671/1720x0/filters:focal(0x0:784x671):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/10259683/mother_jones_gun_deaths_by_state.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/Sheet%203.png)
+![](https://cdn.vox-cdn.com/thumbor/qT_eY-nv6mUjUlZkghfFutjUcnc=/0x0:784x671/1720x0/filters:focal(0x0:784x671):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/10259683/mother_jones_gun_deaths_by_state.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/Sheet%203.png) |
 
 Revised Version Graph |
 ------------- |
@@ -189,4 +189,6 @@ Data Source: [Gun ownership and social gun culture](http://europepmc.org/article
 
 ## Summary & Outlook
 
-In the future improvement, instead of only focus on the US, it would be better to generate more data from different countries. As only with more comparisons of different countries will make the unique problems in the US more standout.
+This is a course project of MSIS 2629 Dashboard, Scorecards, and Data Visualization at Santa Clara University. For each part, it visualizes three aspects of the original data, try to find out some interesting, non-trivial,and unexpected findings. It helps both author and audience to understand more about what is (in)effective data visulization and know the way to detect deceptive data products.
+
+**Limitations and future improvement:** This project focused on the incidents happened in the US, it would be better to generate more data from different countries. As only with more comparisons of different countries will make the unique problems in the US more standout.

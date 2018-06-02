@@ -43,11 +43,11 @@ The Unites States has prolems with gun violence, we talked about it after mass s
 
 There have been more than **1,400** mass shootings happened from 2014 to present. **1,629** people were killed and **6,063** were injured. 
 
-On the night of Sunday, October 1, 2017 when a gunman opened fire on a crowd of concertgoers at the Route 91 Harvest music festival on the Las Vegas Strip in Nevada, leaving 59 people dead and 851 injured. 
+As we can see from the following graphs, the data used by the original one was a bit outdated, after improving it to the first version graph by using more latest data and adding the states' population, it shows mass shootings happended more often at areas with larger population, especially west coast and east area. But it's not unpredictable to the audience, so in the revised version, instead of showing incidents on its actual location, using sum of each states and removing the population data, the graph become more clear. 
+
+The darkest incident can be seen from the graph was on the night of Sunday, October 1, 2017 when a gunman opened fire on a crowd of concertgoers at the Route 91 Harvest music festival on the Las Vegas Strip in Nevada, leaving 59 people dead and 851 injured. 
 
 The incident is the deadliest mass shooting committed by an individual in the United States. It reignited the debate about gun laws in the U.S., with attention focused on bump fire stocks, which Paddock used to fire semi-automatic rifles at a rate similar to that of a fully automatic weapon.
-
-As we can see from the graph, unsurprisingly, mass shootings happended more often at areas with larger population, especially west coast and east area.
 
 Orginal Graph | 
 ------------- |
@@ -59,6 +59,7 @@ First Version Graph |
 
 Revised Version Graph |
 ------------- |
+![](https://github.com/gleamingMushroom/AddImage/blob/master/F1%20-%20Map.png) |
 
 
 ### Finding 2 - People getting hurt everyday

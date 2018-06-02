@@ -12,15 +12,15 @@ This project contains following deliverables:
 
 ```{r}
 1. Project Introduction
-2. Process and Data Wrangling
-3. Redesign Data Product
+2. Redesign Data Product
   + Finding 1
   + Finding 2
   + Finding 3
-4. Decptive Data Product
+3. Decptive Data Product
   + Finding 4
   + Finding 5
   + Finding 6
+4. Process and Data Wrangling
 5. Summary & Outlook
 ```
 
@@ -30,13 +30,6 @@ The topic for this project is Gun Violence in the United States. The data produc
 
 This project contains two parts: An redesign of existing data product and a deceptive data product. The objective is to learn from others, sharpen the critical perspective on data visualizations, reason about design decisions, and attempt to improve data visualizations.
 
-
-## Data Processing and Wrangling
-
-The data uesd in this projects are generated from different public data sources. 
-
-Data of deaths caused by firearm by states is downloaded from CDC Multiple Cause of Death Data: https://wonder.cdc.gov/mcd.html. The data represented firearm caused death in each state each year, from 1999 to 2016. 
-#### [Jupyter Notebook Link](https://github.com/gleamingMushroom/MSIS2629-DataViz/blob/master/Deceptive%20Data%20Product%20Data%20Wrangling.ipynb)
 
 ## Redesign Data Product
 
@@ -64,9 +57,6 @@ Revised Version Graph |
 ------------- |
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/F1%20-%20Map.png) |
 
-[Tableau Public Link](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/revisedversion/map-revised?:iid=1)
-
-
 ### Finding 2 - People are getting hurt EVERDAY
 
 On average, there is around one kill and three injury for each day in the US by mass shooting. Only 4 months passed by the time of this year, there are already **80** incidents happended. In 2018, **121** days, mass shooting has cost the US **103** killed and **314** injured.
@@ -81,15 +71,11 @@ Orginal Graph |
 
 First Version Graph 1 | First Version Graph 2 |
 ------------- | ------------- |
-![](https://github.com/gleamingMushroom/AddImage/blob/master/D2.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/D3.png) |
+![](https://github.com/gleamingMushroom/AddImage/blob/master/D2.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/D3.png) |  
 
 Revised Version Graph 1 | Revised Version Graph 2 |
 ------------- | ------------- |
-![](https://github.com/gleamingMushroom/AddImage/blob/master/F2%20-%20MS%202018.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/F2%20-%20MS%20Trend.png) |
-
-[Tableau Public Link 1](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/revisedversion/MS2018?:iid=5)   
-
-[Tableau Public Link 2](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/revisedversion/MSTrend?:iid=4)
+![](https://github.com/gleamingMushroom/AddImage/blob/master/F2%20-%20MS%202018.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/F2%20-%20MS%20Trend.png) |  
 
 ### Finding 3 - Weak Gun Laws, More Gun Deaths
 
@@ -110,8 +96,6 @@ First Version Graph |
 Revised Version Graph |
 ------------- |
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/F3%20-%20gun%20law%20vs%20gun%20death.png) |
-
-[Tableau Public Link](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/revisedversion/GunLawvsGunDeath?:iid=6)
 
 How is the gun laws strength measured? Six policies would be most essencial: Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. For example, California has strongest gun conrtol laws of these six policies among 50 states, and ranked 43 of gun death rate for 50 represents fewest 0 represents most deaths.
 
@@ -145,13 +129,11 @@ Revised Version Graph |
 ------------- |
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/F4%20-%20homicides.png) |
 
-[Tableau Public Link]()
-
 ### Finding 5 - Most gun deaths are suicides?
 
 The original graph shows majority of gun-related deaths in the US are suicides. We can see that line of suicides is much higher than homicides and still on a rising trend.
 
-But if we change the graph to a different pattern, it could be visually tricked. The deceptive graph does not oppose the conclusion of *"greater access to guns dramatically increases the risk of suicide"*, but with the distorted area size and truncated y-axis, the visual effects are different. In the revised version, by increasing the contrast intentionally leave an impression of homecide number is higher than suicide.
+But if we change the graph to a different pattern, it could be visually tricked. The deceptive graph does not oppose the conclusion of *"greater access to guns dramatically increases the risk of suicide"*, but with the distorted area size and truncated y-axis, the visual effects are different. In the revised version, by increasing the contrast intentionally leave an misleading impression that the number of homecide is higher than suicide.
 
 Orginal Graph | Deceptive Graph
 ------------- | -------------
@@ -160,8 +142,6 @@ Orginal Graph | Deceptive Graph
 Revised Version Graph |
 ------------- |
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/F5%20-%20SH.png) |
-
-[Tableau Public Link]()
 
 ### Finding 6 - States with more guns have more gun deaths?
 
@@ -179,10 +159,14 @@ Revised Version Graph |
 ------------- |
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/F6%20-%20ownership%20and%20deaths.png) |
 
-[Tableau Public Link]()
 Data Source: [Gun ownership and social gun culture](http://europepmc.org/articles/pmc4809774)
 
+## Data Processing and Wrangling
 
+The data uesd in this projects are generated from different public data sources. 
+
+Data of deaths caused by firearm by states is downloaded from CDC Multiple Cause of Death Data: https://wonder.cdc.gov/mcd.html. The data represented firearm caused death in each state each year, from 1999 to 2016. 
+#### [Jupyter Notebook Link](https://github.com/gleamingMushroom/MSIS2629-DataViz/blob/master/Deceptive%20Data%20Product%20Data%20Wrangling.ipynb)
 
 ## Summary & Outlook
 

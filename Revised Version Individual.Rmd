@@ -61,6 +61,8 @@ Revised Version Graph |
 ------------- |
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/F1%20-%20Map.png) |
 
+[Tableau Public Link](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/revisedversion/map-revised?:iid=1)
+
 
 ### Finding 2 - People are getting hurt EVERDAY
 
@@ -82,6 +84,8 @@ Revised Version Graph 1 | Revised Version Graph 2 |
 ------------- | ------------- |
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/F2%20-%20MS%202018.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/F2%20-%20MS%20Trend.png) |
 
+[Tableau Public Link 1](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/revisedversion/MS2018?:iid=5)
+[Tableau Public Link 2](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/revisedversion/MSTrend?:iid=4)
 
 ### Finding 3 - Weak Gun Laws, More Gun Deaths
 
@@ -103,6 +107,7 @@ Revised Version Graph |
 ------------- |
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/F3%20-%20gun%20law%20vs%20gun%20death.png) |
 
+[Tableau Public Link](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/revisedversion/GunLawvsGunDeath?:iid=6)
 
 How is the gun laws strength measured? Six policies would be most essencial: Background Checks, Child Access Prevention, Concealed Carry Permitting, Domestic Violence, Extreme Risk Protection Order and Military-style Weaponry. For example, California has strongest gun conrtol laws of these six policies among 50 states, and ranked 43 of gun death rate for 50 represents fewest 0 represents most deaths.
 
@@ -157,19 +162,6 @@ Orginal Graph | Deceptive Graph
 
 [Tableau Public Link](https://us-west-2b.online.tableau.com/#/site/yezhuli/views/GunViolence/Dashboard3?:iid=6)
 Data Source: [Gun ownership and social gun culture](http://europepmc.org/articles/pmc4809774)
-
-## Finding 4 - Is it true that the states with the most guns report the most suicides?
-
-Using the data of reported suicides between 2001 and 2005 in states with the highest and lowest rates of gun ownership, we can see the significant contrast from the original graph. But if we only use the data of high rate gun ownership states and differentiate them with gender, the result does not support the conclusion of *"More guns, more suicides".* 
-
-In the deceptive graph, for male, it is true that firearm suicide is higher than non-firearm suiciede, but for female, firearm suicide and non-firearm suiciede is almost the same, actually, the non-firearm suiciede bar is higher. So we can only say that: *"For Male, More guns lead to more suicides".*
-
-Orginal Graph | Deceptive Graph
-------------- | -------------
-![](https://github.com/gleamingMushroom/AddImage/blob/master/Sheet%204%20Original2.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/Sheet%204.png)
-
-Data Source: [Guns and Suicide in the United States](https://www.nejm.org/doi/full/10.1056/NEJMp0805923)
-
 
 
 

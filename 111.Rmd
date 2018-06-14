@@ -14,7 +14,7 @@ The below Figure 1 presents the growth rate of GDP in **the five years prior to 
  
 Original Chart | Revised Version 
 -------------  | ------------- 
-![](https://github.com/gleamingMushroom/AddImage/blob/master/Ave%20and%20Med%20Growth%20in%20GDP.jpg) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/GDP4.png)
+![](https://github.com/gleamingMushroom/AddImage/blob/master/Ave%20and%20Med%20Growth%20in%20GDP.jpg) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/GDP10.png)
 [Original Tableau public link]() | [Revised Tableau public link]() 
 
 The graph shows the **average and the median growth rates** of all the host countries in five years prior to and the five years after the World Cup event. And this discussion could be interpreted as being suggestive of possible trends, not as conclusive evidence one way or the other about the causal impact of the World Cup on national economies.

@@ -72,7 +72,7 @@ Original Chart | Revised Version
 
 In the revised version, we highlighted South Africa as it have an increase trend and start to drop one year after World Cup. So when we observe the graph, we wondered could this has anything to do with the cost? So we gathered information of the cost from news, and we can see for the big countries, the cost of GDP is very small, but for South Africa, they actually spent 1% of their GDP for the event:
 
-  |   
+Cost Comparison |   
 -------------  | ------------- 
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/Picture1.png) | Germany (2006), France (1998) and the United States (1994), with developed infrastructure and modern stadiums, spent less than a billion each. When South Korea and Japan co-hosted in 2002 and built new facilities, South Korea spent $2.5 billion and Japan $5 billion. 2010 World Cup in South Africa cost a total of $3.9 billion. The most expensive one is Brazil, with estimates of total expenditures hovering around $14 billion. 
 

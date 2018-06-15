@@ -23,7 +23,7 @@ It is interesting to find that on average, economic growth is slower in the host
 
 On the other hand, the data suggests that host countries might recover nicely in the two years immediately following the World Cup with average growth rates that are higher than the years immediately preceding it.
 
-In the revised version, we removed the average line as its not informative, and remove the data point markd and change the color to make the graph more clear.
+In the revised version, we removed the average line as its not informative, and remove the data point markd and change the color to make the graph more clear. So now we can clearly see the highlight of the host year and the growth is significantly slow.
 
 #### <2> GDP Annual Changes in Current US$
 
@@ -38,7 +38,7 @@ Original Chart | Revised Version
 
 Germany (2006), France (1998) and the United States (1994), with developed infrastructure and modern stadiums, spent less than a billion each. When South Korea and Japan co-hosted in 2002 and built new facilities, South Korea spent [$2.5 billion](http://time.com/2930699/world-cup-brazil-spending/)and Japan [$5 billion](http://time.com/2930699/world-cup-brazil-spending/).But it's not obvious to draw conclusion for other countries.
 
-In the revised version, according to the audience suggestions, we change the color to highlight the lines we want to emphasis so it will be more clear, in this graph, we highlighted the large economies and will leave explanations of other countries to the next graph.
+In the revised version, according to the audience suggestions, we changed the color to highlight the lines we want to emphasis so it will be more straightforward, in this graph, we highlighted the large economies and will leave explanations of other countries to the next graph.
 
 **Figure 2.2: GDP Changes Among Host Countries (Medium Economies, 1960-2016)** 
   
@@ -51,7 +51,7 @@ Original Chart | Revised Version
 
 This World Cup of Brazil is actually the most expensive one yet, with estimates of Brazil's total expenditures hovering around $14 billion including more than $3.6 billion spent on 12 new and renovated stadiums. 
 
-In the revised version, according to the audience suggestions, we change the color to highlight the lines we want to emphasis, in this graph, we highlighted Brazil as it have an obvious opposite trend with others.
+In the revised version, we change the color to highlight Brazil as it have an obvious opposite trend with others.
 
 **Figure 2.3: GDP Changes among Host Countries (Small Economies, 1960-2016)**
   
@@ -66,15 +66,14 @@ Original Chart | Revised Version
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/GDP%20Change%20among%20small%20Economies.png) | ![](https://github.com/gleamingMushroom/AddImage/blob/master/GDP3.png)
 [Original Tableau public link]() | [Revised Tableau public link]() 
 
-In the revised version, we highlighted South Africa as it have an increase trend and start to drop one year after World Cup. So when we observe the graph, we wondered could this has anything to do with the cost? So we gathered information of the cost from news, and we can see for the big countries, the cost of GDP is very small, but for South Africa, they actually spent 1% of their GDP for the event:
+In the revised version, we highlighted South Africa as it initially have an increase trend and start to drop one year after World Cup. So when we observe the graph, we wondered could this has anything to do with the cost? So we gathered information of the cost from news, and we can see for the big countries, the cost of GDP is very small, but for South Africa, they actually spent 1% of their GDP for the event, maybe this is why the GDP line for it is so fluctuated.
 
 ![](https://github.com/gleamingMushroom/AddImage/blob/master/costofgdp.png)  
 
-Germany (2006), France (1998) and the United States (1994), with developed infrastructure and modern stadiums, spent less than a billion each. When South Korea and Japan co-hosted in 2002 and built new facilities, South Korea spent $2.5 billion and Japan $5 billion. 2010 World Cup in South Africa cost a total of $3.9 billion. The most expensive one is Brazil, with estimates of total expenditures hovering around $14 billion. 
+South Africa directly spent over 4 billion dollars to host the cup (Cohen 2010), and billions more in corresponding infrastructure improvements in host cities (Desal and Vahed 2010, 156). Germany (2006), France (1998) and the United States (1994), with developed infrastructure and modern stadiums, spent less than a billion each. When South Korea and Japan co-hosted in 2002 and built new facilities, South Korea spent $2.5 billion and Japan $5 billion. 2010 World Cup in South Africa cost a total of $3.9 billion. The most expensive one is Brazil, with estimates of total expenditures hovering around $14 billion. 
 
 #### Limitations and Outlook:
 
 + As stated above, drawing general conclusion from GDP data is very difficult. Different nations have had a variety of experiences, so the discussion above should be interpreted as being suggestive of possible trends, not as conclusive evidence one way or the other about the causal impact of the World Cup on national economies.
-+ As popularity of the sport has increased worldwide, we might expect a changing impact of the World Cup on economies, so the past is not necessarily a good guide for the future. (With over 4 billion followers of football, it is by far the most popular sport in the world. [Reference](https://www.totalsportek.com/most-popular-sports/)
-+ The impact of the games might also be sensitive to the timing of the games. A country that is operating below capacity might receive a much bigger boost from the games than an economy that is already growing.
 
++ As popularity of the sport has increased worldwide, we might expect a changing impact of the World Cup on economies, so the past is not necessarily a good guide for the future. (With over 4 billion followers of football, it is by far the most popular sport in the world. [Reference](https://www.totalsportek.com/most-popular-sports/)

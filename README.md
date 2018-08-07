@@ -1,8 +1,6 @@
-# MSIS2629 - Data Visualization Course Project
-
 # Is World Cup Worth it for Host Country?
 
-## Revised Data Products
+### MSIS2629 - Data Visualization Course Project
 
 This projects will comprise the following several parts:
 
